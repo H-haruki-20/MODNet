@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T11:45:11.316Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="E_9DDx2Uh2HtvfW_TMog" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-30T07:12:31.986Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="MPE7O9YjuRYxef0AkB2h" version="21.6.9" type="github">
   <diagram name="ページ1" id="ChkdRTG39IVX_a44MbCV">
-    <mxGraphModel dx="896" dy="585" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="650" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,6 +110,12 @@
         </mxCell>
         <mxCell id="quHQw7ab9JeJIt4lRpHH-33" value="APIからの返答結果&lt;br&gt;(.json)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="504" y="227" width="121" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="quHQw7ab9JeJIt4lRpHH-35" value="&lt;h1&gt;1st プロトタイプ&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="162" width="277" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="quHQw7ab9JeJIt4lRpHH-36" value="UIは単純にテキスト&lt;br&gt;として表示するのみ" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="138" width="143" height="114" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
